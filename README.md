@@ -12,12 +12,12 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats-kennyrao.vercel.app/api/top-langs/?username=KennyRao&langs_count=20&hide=ShaderLab%2CASP.NET%2CHLSL%2CTeX%2CRich%20Text%20Format&theme=dark"
+    srcset="https://github-readme-stats-kennyrao.vercel.app/api/top-langs/?username=KennyRao&langs_count=20&hide=ShaderLab%2CASP.NET%2CHLSL%2CRich%20Text%20Format&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-kennyrao.vercel.app/api/top-langs/?username=KennyRao&langs_count=20&hide=ShaderLab%2CASP.NET%2CHLSL%2CTeX%2CRich%20Text%20Format"
+    srcset="https://github-readme-stats-kennyrao.vercel.app/api/top-langs/?username=KennyRao&langs_count=20&hide=ShaderLab%2CASP.NET%2CHLSL%2CRich%20Text%20Format"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-kennyrao.vercel.app/api/top-langs/?username=KennyRao&langs_count=20&hide=ShaderLab%2CASP.NET%2CHLSL%2CTeX%2CRich%20Text%20Format" />
+  <img src="https://github-readme-stats-kennyrao.vercel.app/api/top-langs/?username=KennyRao&langs_count=20&hide=ShaderLab%2CASP.NET%2CHLSL%2CRich%20Text%20Format" />
 </picture>
