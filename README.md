@@ -39,3 +39,5 @@
     <img src="https://github-readme-stats-kennyrao.vercel.app/api/wakatime?username=KennyRao" />
   </picture>
 </p>
+
+[![wakatime](https://wakatime.com/badge/user/3a40ebb7-dac8-409f-9724-47416829cfb9.svg)](https://wakatime.com/@3a40ebb7-dac8-409f-9724-47416829cfb9)
